@@ -1,0 +1,1 @@
+Runs `generate_W.py`, then `main.py`.
